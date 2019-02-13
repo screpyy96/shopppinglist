@@ -1,5 +1,5 @@
 h1 {
-    background: #294bb9;
+    background: #41285e;
     color: white;
     margin: 0;
     padding: 10px 20px;
@@ -18,9 +18,7 @@ ul {
 body {
     font-family: Roboto;
     background: #00bf8f;
-    /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #001510, #00bf8f);
-    /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #001510, #00bf8f);
 }
 
@@ -60,7 +58,7 @@ input:focus {
 
 #container {
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
-    width: 360px;
+    width: 500px;
     margin: 100px auto;
     background: #f7f7f7;
 }
